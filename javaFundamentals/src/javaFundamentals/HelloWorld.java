@@ -1,15 +1,12 @@
 package javaFundamentals;
 
-//C:\Users\TSSVJA\Dragon\Day1
-//HelloWorld.java
-
 public class HelloWorld {
 
-public static void main(String[] args)
-{
-   System.out.println("Hello Java...");
-	  //return ;
-}
+	public static void main(String[] args)
+	{
+	   System.out.println("Hello Java...");
+		  //return ;
+	}
 }
 
 
