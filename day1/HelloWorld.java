@@ -46,17 +46,19 @@ for (int i=0; i < 5; i++)
 {
 	System.out.println("String : " + i);
 }
-
-// Print Pattern **** using for loop 
-// Place the class file authomatically in Design folder
-// javac -d ../Design pattern.java
-// Generate Documentation using JavaDoc 
-
-// git push -u origin master
-
-
-
-
+ 
+ // Print a pattern **** and store class file in Design folder
+ // javac -d ../design Pattern1.java
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
@@ -114,6 +116,20 @@ public class JavaProgram
         }
     }
 }
+
+
+C:\Program Files (x86)\Java\jre1.8.0_231\bin
+
+C:\Program Files\Java\jdk-11.0.1\bin
+
+
+
+
+
+
+
+
+
 
 
 
